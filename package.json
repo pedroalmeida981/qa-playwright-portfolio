@@ -1,0 +1,22 @@
+{
+  "name": "qa-playwright-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalmeida981/qa-playwright-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalmeida981/qa-playwright-portfolio/issues"
+  },
+  "homepage": "https://github.com/pedroalmeida981/qa-playwright-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
